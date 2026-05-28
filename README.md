@@ -1,5 +1,6 @@
 # GANDALF
-GANDALF: GAN-Driven Active Learning Framework for Android Malware Detection
+GANDALF: GAN-Driven Active Learning Framework for Android Malware Detection.
+
 This repository contains the research code and experimental components developed for the GANDALF framework proposed for Android malware detection under data scarcity conditions.
 
 The study combines:
