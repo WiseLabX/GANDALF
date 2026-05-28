@@ -4,6 +4,7 @@ This repository contains the research code and experimental components developed
 
 The study combines:
 - WGAN-GP based synthetic malware generation,
+- Conditional GAN (cGAN) based family-aware synthetic malware generation,
 - Active Learning based sample selection,
 - temporal malware evaluation,
 - and malware family-level analysis.
