@@ -36,8 +36,6 @@ used during the experiments.
 
 This work uses the publicly available KronoDroid dataset:
 
-https://github.com/aleguma/kronodroid
-
 Please download the dataset from the original source and follow the corresponding license and usage terms.
 
 The dataset itself is not redistributed in this repository.
