@@ -18,7 +18,7 @@ The proposed approach integrates:
 - selective synthetic sample filtering,
 - and temporal evaluation methodology.
 
-GANDALF Framework (figures/framework.png)
+![GANDALF Framework](figures/Methodology.png)
 
 #Repository Contents
 
